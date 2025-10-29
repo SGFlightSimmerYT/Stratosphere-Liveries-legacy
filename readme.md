@@ -1,6 +1,6 @@
-# Stratosphere Liveries
+# Stratosphere Liveries - legacy
 
-Liveries for the Stratosphere Studios B777-300ER for X-Plane
+Liveries for the Stratosphere Studios B777-300ER for X-Plane, compatible with old fuselage from before 22 October 2025.
 
 ## Contributing:
 
